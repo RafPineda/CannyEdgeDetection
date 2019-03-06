@@ -1,0 +1,12 @@
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\bin\Debug\EdgeDetection.exe.config
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\bin\Debug\EdgeDetection.exe
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\bin\Debug\EdgeDetection.pdb
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\obj\Debug\EdgeDetection.csprojAssemblyReference.cache
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\obj\Debug\EdgeDetection.CanneyEdge.resources
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\obj\Debug\EdgeDetection.Properties.Resources.resources
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\obj\Debug\EdgeDetection.Smoothed.resources
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\obj\Debug\EdgeDetection.SmoothedImage.resources
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\obj\Debug\EdgeDetection.csproj.GenerateResource.cache
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\obj\Debug\EdgeDetection.csproj.CoreCompileInputs.cache
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\obj\Debug\EdgeDetection.exe
+C:\Users\Raf-PC\Dropbox\CS480 Graphics\EdgeDetection\EdgeDetection\obj\Debug\EdgeDetection.pdb
